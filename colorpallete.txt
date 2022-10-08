@@ -1,0 +1,9 @@
+https://colorhunt.co/palette/06283d256d8547b5ffdff6ff
+#06283D
+#256D85
+#47B5FF
+#DFF6FF
+rgb(6, 40, 61)
+rgb(37, 109, 133)
+rgb(71, 181, 255)
+rgb(223, 246, 255)
