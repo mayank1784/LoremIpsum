@@ -37,7 +37,7 @@ body{
 .sign-btn{
   margin: 5% 3% 5% 0;
 }
-  @media (max-width:900px) {
+  @media (max-width:360px) {
     #title{
       text-align: center;
     }
