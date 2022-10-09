@@ -44,10 +44,6 @@ body{
     #title{
       text-align: center;
     }
-    .title-image{
-      position: static;
-      width: 15rem;
-    }
     .title-heading{
       font-size: 3rem;
     }
