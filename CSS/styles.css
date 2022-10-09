@@ -78,3 +78,40 @@ body{
   color: #fff;
   font-weight:600;
   }
+  #feedback{
+    text-align:center;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+  }
+  .feedback-but{
+    margin-top: 1%;
+    margin-bottom: 0;
+  }
+  #feedback h2{
+    color:black;
+    font-family: "Ubuntu";
+  }
+  #feedback p{
+    color:black;
+    font-family: "Montserrat";
+  }
+  #feedback a{
+    align-items: center;
+    text-align: center;
+  }
+  #footer{
+    padding-top: 50px;
+    text-align: center;
+    background-color: #06283D;
+    color: #DFF6FF;
+    font-family: "Montserrat";
+    line-height: 1.5;
+    font-size: 0.8rem;
+    padding-bottom: 30px;
+  }
+  .social-media{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    color: #256D85;
+    font-size: 1rem;
