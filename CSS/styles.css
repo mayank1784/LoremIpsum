@@ -1,12 +1,15 @@
 #title{
   background-color: #06283D;
-  color: #DFF6FF;}
+  color: #DFF6FF;
+margin-bottom: 0;}
 .container-fluid{
   padding: 3% 15%;
 }
 body{
   font-family: "Montserrat";
   color: #DFF6FF;
+  padding:0;
+  margin:0;
 }
 .navbar{
   padding-bottom: 0 0 2.5rem;
@@ -48,4 +51,34 @@ body{
     .title-heading{
       font-size: 3rem;
     }
+  }
+  .newsletter {
+  padding: 80px 0;
+  background: #DFF6FF;
+  }
+
+  .newsletter .content {
+  max-width: 650px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  z-index: 2; }
+  .newsletter .content h2 {
+  color: #06283D;
+  margin-bottom: 40px; }
+  .newsletter .content .form-control {
+  height: 50px;
+  border-color: #ffffff;
+  border-radius:0;
+  }
+  .newsletter .content.form-control:focus {
+  box-shadow: none;
+  border: 2px solid #243c4f;
+  }
+  .newsletter .content .btn {
+  min-height: 50px;
+  border-radius:0;
+  background: #06283D;
+  color: #fff;
+  font-weight:600;
   }
