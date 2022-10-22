@@ -24,6 +24,9 @@ body{
 .nav-item{
   padding: 0 18px;
 }
+.donate{
+  margin-left: 10px;
+}
 .nav-link{
   padding-bottom: 1rem;
   font-size: 1.2rem;
